@@ -6,12 +6,12 @@ Then replace the current `h1` with the Renovate Issue/Discussion number.
 
 ## Current behavior
 
-Explain the current behavior here.
+using the multiple major releases preset for renovate causes some deps to downgrade
 
 ## Expected behavior
 
-Explain the expected behavior here.
+if loose or non semver releases existed in the past ignore them
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/32353

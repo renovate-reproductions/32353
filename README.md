@@ -1,9 +1,4 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
-
+# 32353
 ## Current behavior
 
 using the multiple major releases preset for renovate causes some deps to downgrade
